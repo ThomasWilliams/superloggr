@@ -1,0 +1,15 @@
+{
+  "name": "superloggr",
+  "version": "1.0.0",
+  "description": "A custom logging tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Thomas Williams <tom0657@gmail.com> (http://github.com/ThomasWilliams)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "lodash": "^3.10.1"
+  }
+}
